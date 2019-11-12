@@ -9,3 +9,4 @@ My laboratory projects from University, in Functional programming (Haskell).
 * [Lab №6](/Lab06)
 * [Lab №7](/Lab07)
 * [Lab №8](/Lab08)
+* [Lab №9](/Lab09)
