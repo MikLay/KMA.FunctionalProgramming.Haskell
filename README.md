@@ -10,4 +10,5 @@ My laboratory projects from University, in Functional programming (Haskell).
 * [Lab №7](/Lab07)
 * [Lab №8](/Lab08)
 * [Lab №9](/Lab09)
-* [Lab №10](/Lab010)
+* [Lab №10](/Lab10)
+* [Lab №11](/Lab11)
